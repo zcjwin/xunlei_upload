@@ -14,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/thr_publish.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="697">
-              <caret line="67" column="22" lean-forward="true" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+              <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xunlei_ui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="344" column="29" selection-start-line="344" selection-start-column="29" selection-end-line="344" selection-end-column="29" />
+            <state relative-caret-position="129">
+              <caret line="336" column="48" selection-start-line="336" selection-start-column="48" selection-end-line="336" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -367,7 +367,7 @@
       <workItem from="1565315609137" duration="29937000" />
       <workItem from="1565398246966" duration="30206000" />
       <workItem from="1565583395955" duration="19591000" />
-      <workItem from="1565657100962" duration="17042000" />
+      <workItem from="1565657100962" duration="19357000" />
     </task>
     <task id="LOCAL-00001" summary="自媒体账号自动上传发布">
       <created>1565678690119</created>
@@ -380,11 +380,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="783591000" />
+    <option name="totallyTimeSpent" value="785906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2578" height="1410" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49948293" visible="true" weight="0.115015976" />
       <window_info id="Structure" order="1" sideWeight="0.5005171" side_tool="true" weight="0.10543131" />
@@ -617,7 +616,7 @@
     <entry file="file://$PROJECT_DIR$/thr_publish.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
-          <caret line="67" column="22" lean-forward="true" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -690,8 +689,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xunlei_ui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="344" column="29" selection-start-line="344" selection-start-column="29" selection-end-line="344" selection-end-column="29" />
+        <state relative-caret-position="129">
+          <caret line="336" column="48" selection-start-line="336" selection-start-column="48" selection-end-line="336" selection-end-column="48" />
         </state>
       </provider>
     </entry>
