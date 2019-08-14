@@ -367,7 +367,7 @@ class Ui_MainWindow(QMainWindow):
                 # u_dic = {'账号': pitch_on_uid, '密码': pitch_on_pwd}
                 # u_list.append(u_dic)
             else:
-                break
+                continue
 
         # 开启多线程进行登陆
         if u_list:

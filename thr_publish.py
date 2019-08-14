@@ -113,7 +113,6 @@ class XunleiPublish(object):
                             publish_queue.put(publish_dic)
                             os.remove(filepath)
                             self.upload(uid,pwd)
-                            # break
                     except:
                         time.sleep(0.2)
                 else:
