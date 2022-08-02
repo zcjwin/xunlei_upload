@@ -11,5 +11,6 @@
   5、软件的前端界面使用的是pyqt5，需要把后端的动态数据显示到界面表格中去，这个使用qt中的QThread多线程来进行实现，重写run方法通过
      传递信号检测实现数据的实时动态传输
      
+界面效果：
+  ![b3bad740e6a7842da13cdb472de0620](https://user-images.githubusercontent.com/44716399/182280550-b0c99879-9b40-4732-a1cd-e6465f289369.jpg)
 
-  
